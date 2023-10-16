@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js, Advanced DSA**
 
-- 💬 Ask me about **DSA, Development**
+- 💬 Ask me about **DSA, Web Development, Amazon Cloud Services**
 
 - 📫 How to reach me **nagariyapriyanshu@gmail.com**
 
